@@ -7,8 +7,6 @@ const App = () => {
     <div>
       <h1 className="adopt-me">Adopt Me!</h1>
       <SearchParams/>
-      {/* <Pet name="Cocoa" animal="Dog" breed="Lab"/>
-      <Pet name="Sofi" animal="Dog" breed="Yorkie"/> */}
     </div>
   )
 };
